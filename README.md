@@ -1,8 +1,15 @@
 # svg-tasks-22.3
 
+## Summary
+
 This repository contains tasks from lesson 22.3 to learn SVG.
 
 There are two tasks. They are stored in the subfolders `task-1` and `task-2`.
+
+## Links
+
+- [Task 1](task-1/index.html)
+- [Task 2](task-2/index.html)
 
 ## Task descriptions
 
