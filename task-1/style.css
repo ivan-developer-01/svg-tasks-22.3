@@ -1,0 +1,4 @@
+/* just to make it easier to see the borders of flags */
+svg {
+	border: 1px solid black;
+}
